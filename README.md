@@ -108,7 +108,7 @@ Top contributing features (by information gain):
 4. Feature f1630: 78.40
 5. Feature f326: 63.49
 
-###⚠️ Limitations & Disclaimers
+### ⚠️ Limitations & Disclaimers
 
 Past Performance ≠ Future Results: Historical data cannot predict unexpected events
 Market Efficiency: Stock markets are highly efficient; consistent prediction is extremely difficult
@@ -116,14 +116,14 @@ External Factors: News, earnings, geopolitical events not captured in technical 
 Research Purpose: This project is for educational/research purposes only
 Not Financial Advice: Do not use for actual trading decisions without professional consultation
 
-###Reality Check
+### Reality Check
 
 Professional quantitative funds consider 55% directional accuracy a success
 Even with ML, predicting stock prices remains challenging
 A positive R² score is encouraging but doesn't guarantee profit
 Transaction costs, slippage, and market impact not modeled
 
-###🔮 Future Improvements
+### 🔮 Future Improvements
 
  Add sentiment analysis from news/social media
  Implement ensemble methods (LSTM + XGBoost)
@@ -140,7 +140,8 @@ Transaction costs, slippage, and market impact not modeled
  ---
 
 
- ###📧 Contact
+ ### 📧 Contact
 Osama Shabbar -  onama.os@gmail.com
+
 Project Link: https://github.com/Os-Shabbar/Stock-Price-Prediction-Using-ML
 
